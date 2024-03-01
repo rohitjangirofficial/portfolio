@@ -20,6 +20,8 @@
 
 .menuBtn {
   display: none;
+  height: 35px;
+  width: 35px;
 }
 
 .menu {
@@ -68,11 +70,11 @@
     gap: 13px;
     border-radius: 10px;
     background: rgb(25, 55, 109);
-    background: linear-gradient(
+    /* background: linear-gradient(
       0deg,
       rgba(25, 55, 109, 0.2) 0%,
       rgba(25, 55, 109, 1) 100%
-    );
+    ); */
     padding: 24px 33px;
     box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
       rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
