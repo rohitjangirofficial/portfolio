@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React JS",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node JS",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express JS",
+    "imageSrc": "skills/express-js.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Next JS",
+    "imageSrc": "skills/next-js.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Chakra UI",
+    "imageSrc": "skills/chakra-ui.png"
+  },
+  {
+    "title": "Material UI",
+    "imageSrc": "skills/material-ui.png"
+  }
+]
