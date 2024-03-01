@@ -50,11 +50,21 @@
 }
 
 @media screen and (max-width: 520px) {
+  .text h2 {
+    font-size: 30px !important;
+  }
+  .text p {
+    font-size: 20px !important;
+  }
+
+  .links {
+    gap: 15px;
+  }
   .link img {
-    height: 30px;
+    height: 22px;
   }
   .link a {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
@@ -62,6 +72,7 @@
   .container {
     flex-direction: column;
     gap: 23px;
+    margin-top: 75px;
   }
 
   .text {

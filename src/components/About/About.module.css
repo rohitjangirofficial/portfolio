@@ -9,6 +9,7 @@
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
+  /* border: 1px solid red; */
 }
 
 .title {
@@ -54,7 +55,7 @@
 }
 
 .aboutItem:hover {
-  background-size: 100% 100%;
+  /* background-size: 100% 100%; */
 }
 
 .aboutItem img {
@@ -62,13 +63,15 @@
 }
 
 .aboutItem h3 {
-  font-size: 25px;
+  font-size: 26px;
   font-weight: 600;
   letter-spacing: 1px;
+  margin-bottom: 7px;
 }
 
 .aboutItem p {
   font-size: 23px;
+  line-height: 30px;
 }
 
 @media screen and (max-width: 830px) {
@@ -76,6 +79,9 @@
     background-color: transparent;
     padding-left: 0;
     padding-right: 0;
+    margin-top: 0;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 
   .content {
@@ -88,6 +94,7 @@
 
   .aboutItems {
     margin-top: 29px;
+    gap: 0;
   }
 
   .aboutItem {
