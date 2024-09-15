@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Rohit Jangir</h1>
         <p className={styles.description}>
-          I’m a Full-Stack Developer with 1.5 years of experience in React JS, Node JS, and Next.js. I enjoy creating engaging web applications and am always open to discussing how I can help with your projects. Feel free to reach out!
+          I'm a full-stack developer with 1.5 years+ of experience in React JS, Next JS and Node JS. Reach out if you'd like to learn more!
         </p>
         <div className={styles.actionBtns}>
           <a
