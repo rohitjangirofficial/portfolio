@@ -3,12 +3,12 @@
     "role": "Full Stack Developer",
     "organisation": "Mapscrew",
     "startDate": "June, 2023",
-    "endDate": "Present",
+    "endDate": "February, 2024",
     "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
     "imageSrc": "history/mapscrew.jpg"
   },
   {
-    "role": "Full Stack Developer | Wordpress",
+    "role": "Full Stack Developer (Remote Client Projects)",
     "organisation": "Freelancing",
     "startDate": "March, 2023",
     "endDate": "June, 2023",
@@ -16,7 +16,7 @@
     "imageSrc": "history/freelance.png"
   },
   {
-    "role": "Full Stack Developer Intern",
+    "role": "Full Stack Developer",
     "organisation": "Innover Labs",
     "startDate": "Sep, 2022",
     "endDate": "Feb, 2023",
